@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Futuristic Jarvis AI assistant with holographic blue orb, phone task automation, vision camera, and Groq integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
